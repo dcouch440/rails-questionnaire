@@ -10,7 +10,8 @@ Date created: 3/16/21
 ## Authors and Contributors
 Co-authored by:\
 David Couch\
-Jon stump
+Jon stump\
+Zack Rutledge
 
 
 ## Description
@@ -45,12 +46,12 @@ The following concepts are covered in this project:
 * git 2.30.1
 
 ## License
-[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
-Copyright &copy; 2021 David Couch, Jon Stump
+[GPLv3](/LICENSE)\
+Copyright &copy; 2021 David Couch, Jon Stump, Zack Rutledge
 
 ## Contact
 David Couch: via <a href="https://www.linkedin.com/in/dcouch440/" target="_blank">LinkedIn</a> or <a href="dcouch440@gmail.com" target="_blank">email</a>.
 
 Jon Stump: via <a href="https://www.linkedin.com/in/jonstump/" target="_blank">LinkedIn</a> or <a href="jmstump@gmail.com" target="_blank">email</a>.
 
-Jon Stump: via <a href="https://www.linkedin.com/in/jonstump/" target="_blank">LinkedIn</a> or <a href="jmstump@gmail.com" target="_blank">email</a>.
+Zack Rutledge: via <a href="https://www.linkedin.com/in/zack-rutledge762/" target="_blank">LinkedIn</a> or <a href="thorgrim88@gmail.com" target="_blank">email</a>.
