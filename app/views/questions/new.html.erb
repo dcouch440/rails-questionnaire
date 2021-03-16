@@ -1,1 +1,5 @@
-<%= render "layouts/question_form" %>
+<%= form_for [@survey, @question] do |f| %>
+  <%= f.label :question %>
+  <%= f.text_field :question %>
+  <%= f.submit %>
+<% end %>
