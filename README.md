@@ -52,3 +52,5 @@ Copyright &copy; 2021 David Couch, Jon Stump
 David Couch: via <a href="https://www.linkedin.com/in/dcouch440/" target="_blank">LinkedIn</a> or <a href="dcouch440@gmail.com" target="_blank">email</a>.
 
 Jon Stump: via <a href="https://www.linkedin.com/in/jonstump/" target="_blank">LinkedIn</a> or <a href="jmstump@gmail.com" target="_blank">email</a>.
+
+Jon Stump: via <a href="https://www.linkedin.com/in/jonstump/" target="_blank">LinkedIn</a> or <a href="jmstump@gmail.com" target="_blank">email</a>.

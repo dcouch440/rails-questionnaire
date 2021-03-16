@@ -1,0 +1,13 @@
+<h1>Survey</h1>
+
+<div>
+  <p>dogs</p>
+
+<% if @surveys.any? %>
+  <ul>
+    <% @surveys.each do |survey| %>
+      <li><%= survey.title %></li>
+    <% end %>
+  </ul>
+<% end %>
+</div>
